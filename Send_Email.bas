@@ -2,7 +2,7 @@ Attribute VB_Name = "Send_Email"
 Sub SendEmail()
 Attribute SendEmail.VB_ProcData.VB_Invoke_Func = " \n14"
 ' This macro will send the designated file to outlook via email.
-' Created by Antonio Lassalle on 09/21/2024.
+
 
 ' Declare variables.
     Dim EmailApp As Object
