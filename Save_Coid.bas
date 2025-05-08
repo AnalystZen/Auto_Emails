@@ -2,7 +2,7 @@ Attribute VB_Name = "Save_Coid"
 Sub SaveCoid()
 Attribute SaveCoid.VB_ProcData.VB_Invoke_Func = " \n14"
 ' This macro will save the coid sheet in the designated directory as an Xlsm type, then as a PDF type, then send the PDF to outlook.
-' Created by Antonio Lassalle on 9/21/2024.
+
 
 ' Declare variables.
     Dim DateEntry As Variant
