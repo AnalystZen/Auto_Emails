@@ -1,7 +1,7 @@
 Attribute VB_Name = "Import_Coid"
 Sub ImportCoid()
 ' Import COID by Date, and separate using excel filter function.
-' Created by Antonio Lassalle on 02/01/2024.
+
 
 ' Variable declarations.
     Dim DateEntry As Variant
