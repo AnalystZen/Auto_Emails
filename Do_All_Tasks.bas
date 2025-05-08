@@ -1,7 +1,7 @@
 Attribute VB_Name = "Do_All_Tasks"
 Sub AllTasks()
 ' This Macro will import coid, filter, print, save and email coid sheet for mats. Apps used- SAP,Outlook,Excel,Windows System.
-' Created by Antonio Lassalle on 09/22/2024.
+
 
 ' Variable declarations.
     Dim DateEntry As Variant
