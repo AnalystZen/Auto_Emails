@@ -3,7 +3,7 @@ Sub ClearData()
 Attribute ClearData.VB_Description = "This macro will clear data if the workbook is accidently saved over."
 Attribute ClearData.VB_ProcData.VB_Invoke_Func = " \n14"
 ' This macro will clear data if the workbook is accidently saved over.
-' Created by Antonio Lassalle on 6/20/2024.
+
     
 ' Enable error trapping.
     On Error GoTo Errhandler:
